@@ -1,0 +1,15 @@
+\\chrmornas\Home\IT\E070501\Visual Studio 2008\Projects\PrettyTime.NET\PrettyTime.NET\obj\Debug\ResolveAssemblyReference.cache
+\\chrmornas\Home\IT\E070501\Visual Studio 2008\Projects\PrettyTime.NET\PrettyTime.NET\bin\Debug\PrettyTime.NET.dll
+\\chrmornas\Home\IT\E070501\Visual Studio 2008\Projects\PrettyTime.NET\PrettyTime.NET\bin\Debug\PrettyTime.NET.pdb
+\\chrmornas\Home\IT\E070501\Visual Studio 2008\Projects\PrettyTime.NET\PrettyTime.NET\obj\Debug\PrettyTime.NET.dll
+\\chrmornas\Home\IT\E070501\Visual Studio 2008\Projects\PrettyTime.NET\PrettyTime.NET\obj\Debug\PrettyTime.NET.pdb
+D:\Documents\Visual Studio 2008\Projects\PrettyTime.NET\PrettyTime.NET\obj\Debug\PrettyTime.NET.dll
+D:\Documents\Visual Studio 2008\Projects\PrettyTime.NET\PrettyTime.NET\obj\Debug\PrettyTime.NET.pdb
+D:\Documents\Visual Studio 2008\Projects\PrettyTime.NET\PrettyTime.NET\bin\Debug\PrettyTime.NET.dll
+D:\Documents\Visual Studio 2008\Projects\PrettyTime.NET\PrettyTime.NET\bin\Debug\PrettyTime.NET.pdb
+D:\Documents\Visual Studio 2008\Projects\PrettyTime.NET\PrettyTime.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\e070501\Desktop\PrettyTime.NET\PrettyTime.NET\bin\Debug\PrettyTime.NET.dll
+C:\Documents and Settings\e070501\Desktop\PrettyTime.NET\PrettyTime.NET\bin\Debug\PrettyTime.NET.pdb
+C:\Documents and Settings\e070501\Desktop\PrettyTime.NET\PrettyTime.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\e070501\Desktop\PrettyTime.NET\PrettyTime.NET\obj\Debug\PrettyTime.NET.dll
+C:\Documents and Settings\e070501\Desktop\PrettyTime.NET\PrettyTime.NET\obj\Debug\PrettyTime.NET.pdb
