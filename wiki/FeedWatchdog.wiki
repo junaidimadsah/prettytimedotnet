@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+#labels feedwatchdog,rss,atom,.net,pretty,time
+
+= Introduction =
+
+FeedWatchdog allows you to create custom searches for multiple RSS/ATOM feeds and will alert you as soon as it happens (email, txt, webinterface).
+
+
+= Details =
+
+FeedWatchdog.com was the first website to implement PrettyTime.NET.
