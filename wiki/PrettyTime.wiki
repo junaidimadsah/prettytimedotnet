@@ -1,11 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Human readable elapsed time / timestamps for Java
 #labels java,pretty,time,elapsed
-
-= Introduction =
-
-Human readable elapsed time / timestamps for Java
-
-
-= Details =
 
 PrettyTime is an OpenSource time formatting library. Completely customizable, PrettyTime creates human readable, relative timestamps like those seen on Digg, Twitter, Gmail, and Facebook. It's simple, get started "right now!"
